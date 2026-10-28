@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "version": "2026-10-27.4",
+ "records_through": "2026-10-27",
+ "published": "2026-10-27T22:02:09Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-central-jersey": {
+   "path": "detail-central-jersey-4b20faf9457f.json",
+   "sha256": "4b20faf9457fe6af09d3b24579887e53da4ddc3c12ddab6328415790ba83df00",
+   "bytes": 239358,
+   "rows": 3724
+  },
+  "detail-jersey-shore": {
+   "path": "detail-jersey-shore-10d07b79d07d.json",
+   "sha256": "10d07b79d07da5626f98168c505c077db6354058630ce7af0d5ccf0cb737b867",
+   "bytes": 303056,
+   "rows": 4782
+  },
+  "detail-north-jersey": {
+   "path": "detail-north-jersey-02c945dcce48.json",
+   "sha256": "02c945dcce48397255582ca00ba78e3b45d99163091adbbe29db258f5c085a13",
+   "bytes": 637948,
+   "rows": 10467
+  },
+  "detail-south-jersey": {
+   "path": "detail-south-jersey-d457ca37d2d2.json",
+   "sha256": "d457ca37d2d25ca3333351959f43cc1982cfb88772069585905fd238e8fd21ff",
+   "bytes": 193208,
+   "rows": 2937
+  },
+  "places": {
+   "path": "places-a0e401cc6dc6.json",
+   "sha256": "a0e401cc6dc6583057fcd3d7e10100714a472bb57ade9e781a10d3af3725c68c",
+   "bytes": 3738583,
+   "rows": 22208
+  }
+ },
+ "counts": {
+  "places": 22208,
+  "files": 5,
+  "bytes": 5112153,
+  "restaurants": 21754
+ },
+ "previous": {
+  "version": "2026-10-27.3",
+  "files": {
+   "detail-central-jersey": "detail-central-jersey-36cffc22dc5b.json",
+   "detail-jersey-shore": "detail-jersey-shore-539683df3c04.json",
+   "detail-north-jersey": "detail-north-jersey-6107e3a7fd35.json",
+   "detail-south-jersey": "detail-south-jersey-0d9157b4f561.json",
+   "places": "places-a0e401cc6dc6.json"
+  }
+ }
+}
